@@ -10,7 +10,7 @@ Este proyecto tiene como objetivo analizar el abandono de clientes (churn) en Te
 
 1. [Introducción](#introducción)
 2. [Normalización, Limpieza y Tratamiento de Datos](#limpieza-y-tratamiento-de-datos)
-3. [Análisis Exploratorio de Datos](#análisis-exploratorio-de-datos-eda)
+3. [Análisis Exploratorio de Datos](#análisis-exploratorio-de-datos)
 4. [Conclusiones e Insights](#conclusiones-e-insights)
 5. [Recomendaciones Estratégicas](#recomendaciones-estratégicas)
 6. [Tecnologías Utilizadas](#tecnologías-utilizadas)
